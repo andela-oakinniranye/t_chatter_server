@@ -3,7 +3,7 @@ require 'bundler'
 require 'sinatra'
 require 'sinatra/reloader'
 require 'json'
-# require 'pry'
+require 'pry'
 require './chatter_server'
 
 
