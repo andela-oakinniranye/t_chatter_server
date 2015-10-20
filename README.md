@@ -17,6 +17,8 @@ I've tried to keep it compact a bit therefore feel free to play around anyhow yo
 To start the server, just run
 
 ```bash
+  bundle install
+  
   rackup
 ```
 
